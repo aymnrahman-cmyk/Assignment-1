@@ -106,7 +106,7 @@ nav .menu a{
     background-color: transparent;
     padding: 16px 16px 16px 46px;
     border-radius: 4px;
-    border: 10px white;
+    border:#FFFFFF solid 2px;
     font-size: 16;
     font-weight: 600;
     color: #FFFFFF;
